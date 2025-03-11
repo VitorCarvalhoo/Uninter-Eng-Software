@@ -1,0 +1,24 @@
+.alternada {
+    list-style: upper-alpha;
+    width: fit-content;
+}
+
+.alternada li:nth-child(odd) {
+    background-color: khaki;
+}
+
+.alternada li:nth-child(even) {
+    background-color: rgba(153, 142, 43, 0.767);
+}
+
+a {
+    position: absolute;
+    bottom: 100px;
+    right: 800px;
+    left: 800px;
+}
+a:hover {
+    color: rgb(253, 0, 0);
+    font-size: 25px;
+
+}

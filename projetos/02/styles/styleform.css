@@ -1,0 +1,25 @@
+body {
+    background-color: #11111b;
+}
+
+#formularios {
+    background-color: #1d183b;
+    justify-content: center;
+
+    width: 300px;
+    height: 450px;
+    margin: 8% 50% 8% 40%;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid blueviolet;
+}
+
+#formularios h1 {
+    text-align: center;
+    color: rgba(124, 107, 33, 0.589);
+}
+
+#formularios input[type="submit"]:hover {
+    background-color: burlywood;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.botao {
+    display: block;
+    width: 20%;
+    padding: 10px 15px;
+    border: 0;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0px;
+}
+
+.botao:hover {
+    background: #444;
+}
+
+.problema {
+    background-color: red;
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+
+a {
+    position: absolute;
+    bottom: 0px;
+    right: 50%;
+    left: 50%;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(252, 0, 0);
+    font-size: 25px;
+}

@@ -1,0 +1,17 @@
+.imagem{
+    background-image: url('uninter.png');
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 300px;
+    display: block;
+    background-size: contain;
+}
+
+.imagem:hover {
+    background-position: 0px 50px;
+}
+
+.link:hover{
+    color: rgb(253, 0, 0);
+    font-size: 20px;
+}

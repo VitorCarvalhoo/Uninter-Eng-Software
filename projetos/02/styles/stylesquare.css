@@ -1,0 +1,40 @@
+.quadrado {
+    border: 3px solid black;
+    background-color: blanchedalmond;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+
+    position: absolute;
+}
+
+.quadrado2 {
+    left: 0px;
+    bottom: 0px;
+}
+
+.quadrado3 {
+    right: 0px;
+    top: 0px;
+}
+
+.quadrado4 {
+    right: 0px;
+    bottom: 0px;
+}
+
+.quadrado:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+a {
+    position: absolute;
+    bottom: 0px;
+    right: 800px;
+    left: 800px;
+}
+a:hover {
+    color: rgb(253, 0, 0);
+    font-size: 25px;
+
+}
